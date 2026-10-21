@@ -22,4 +22,4 @@ Ferramenta desenvolvida em Python com interface gráfica para automatizar o proc
 
 2. Execute o programa:
    ```bash
-   python window.py
+   python main.py
