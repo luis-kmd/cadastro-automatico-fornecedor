@@ -19,3 +19,7 @@ Ferramenta desenvolvida em Python com interface gráfica para automatizar o proc
 1. Instale as dependências:
    ```bash
    pip install PyQt5 requests
+
+2. Execute o programa:
+   ```bash
+   python window.py
